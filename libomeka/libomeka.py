@@ -1,7 +1,8 @@
 import json
 import requests
 import os
-from lib import Curation
+# from lib import Curation
+import Curation
 
 class Omeka:
     api = ""
