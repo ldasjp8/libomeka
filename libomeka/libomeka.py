@@ -22,7 +22,8 @@ class Omeka:
     output_dir = ""
 
     types = [
-        "collections", 
+        "collections",
+        "items",
         "element_sets", 
         "elements", 
         "files", 
